@@ -1,64 +1,35 @@
-[12:50:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:50:06] [ServerMain/INFO]: Loaded 1290 recipes
-[12:50:06] [ServerMain/INFO]: Loaded 1399 advancements
-[12:50:07] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[12:50:07] [Server thread/INFO]: Loading properties
-[12:50:07] [Server thread/INFO]: Default game type: SURVIVAL
-[12:50:07] [Server thread/INFO]: Generating keypair
-[12:50:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:50:07] [Server thread/INFO]: Using epoll channel type
-[12:50:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:50:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:50:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:50:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:50:07] [Server thread/INFO]: Preparing level "world"
-[12:50:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:50:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:50:12] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[12:50:12] [Worker-Main-2/INFO]: Preparing spawn area: 59%
-[12:50:12] [Server thread/INFO]: Time elapsed: 1060 ms
-[12:50:12] [Server thread/INFO]: Done (4.767s)! For help, type "help"
-[12:50:17] [Server thread/INFO]: ENANIN10[/127.95.95.213:33697] logged in with entity id 14 at (671.4880667579945, 69.0, 100.3090746017815)
-[12:50:17] [Server thread/INFO]: ENANIN10 joined the game
-[12:50:21] [Server thread/INFO]: Tigre_Severo[/127.199.54.170:37977] logged in with entity id 220 at (686.6263065912847, 63.49520087700592, 92.54991922067579)
-[12:50:21] [Server thread/INFO]: Tigre_Severo joined the game
-[12:54:00] [Server thread/INFO]: pepeneque[/127.63.100.36:41267] logged in with entity id 1877 at (676.3626047854864, 63.0, 92.11191874523755)
-[12:54:00] [Server thread/INFO]: pepeneque joined the game
-[12:55:41] [Server thread/INFO]: pepeneque has made the advancement [A Seedy Place]
-[13:03:02] [Server thread/INFO]: ENANIN10 has made the advancement [A Seedy Place]
-[13:04:28] [Server thread/INFO]: pepeneque lost connection: Disconnected
-[13:04:28] [Server thread/INFO]: pepeneque left the game
-[13:05:29] [Server thread/INFO]: pepeneque[/127.63.100.36:41323] logged in with entity id 4864 at (786.3000000119209, -8.0, -22.769141304513376)
-[13:05:29] [Server thread/INFO]: pepeneque joined the game
-[13:05:32] [Server thread/INFO]: Tigre_Severo lost connection: Disconnected
-[13:05:32] [Server thread/INFO]: Tigre_Severo left the game
-[13:06:35] [Server thread/INFO]: Tigre_Severo[/127.199.54.170:49291] logged in with entity id 5428 at (670.3000000119209, 62.9375, 86.69980782046432)
-[13:06:35] [Server thread/INFO]: Tigre_Severo joined the game
-[13:07:28] [Server thread/INFO]: ENANIN10 was slain by Zombie
-[13:07:30] [Server thread/INFO]: Tigre_Severo lost connection: Disconnected
-[13:07:30] [Server thread/INFO]: Tigre_Severo left the game
-[13:07:53] [Server thread/INFO]: Tigre_Severo[/127.199.54.170:48483] logged in with entity id 6664 at (667.8228826607149, 65.0, 88.35326286480999)
-[13:07:53] [Server thread/INFO]: Tigre_Severo joined the game
-[13:07:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=93, y=64, z=120} jd{x=95, y=62, z=120}
-[13:08:24] [Server thread/INFO]: pepeneque lost connection: Disconnected
-[13:08:24] [Server thread/INFO]: pepeneque left the game
-[13:08:30] [Server thread/INFO]: pepeneque[/127.63.100.36:35401] logged in with entity id 7211 at (736.3000000119209, -13.0, 5.300000011920929)
-[13:08:30] [Server thread/INFO]: pepeneque joined the game
-[13:09:01] [Server thread/INFO]: pepeneque has made the advancement [Diamonds!]
-[13:10:00] [Server thread/INFO]: pepeneque lost connection: Disconnected
-[13:10:00] [Server thread/INFO]: pepeneque left the game
-[13:10:30] [Server thread/INFO]: ENANIN10 lost connection: Disconnected
-[13:10:30] [Server thread/INFO]: ENANIN10 left the game
-[13:10:35] [Server thread/INFO]: Tigre_Severo lost connection: Disconnected
-[13:10:35] [Server thread/INFO]: Tigre_Severo left the game
-[13:10:49] [Server thread/INFO]: Stopping the server
-[13:10:49] [Server thread/INFO]: Stopping server
-[13:10:49] [Server thread/INFO]: Saving players
-[13:10:49] [Server thread/INFO]: Saving worlds
-[13:10:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:10:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13:10:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13:10:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:10:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:10:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:10:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:10:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:10:30] [ServerMain/INFO]: Loaded 1290 recipes
+[14:10:31] [ServerMain/INFO]: Loaded 1399 advancements
+[14:10:31] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[14:10:31] [Server thread/INFO]: Loading properties
+[14:10:31] [Server thread/INFO]: Default game type: SURVIVAL
+[14:10:31] [Server thread/INFO]: Generating keypair
+[14:10:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:10:31] [Server thread/INFO]: Using epoll channel type
+[14:10:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:10:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:10:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:10:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:10:32] [Server thread/INFO]: Preparing level "world"
+[14:10:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:10:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:10:34] [Server thread/INFO]: Time elapsed: 486 ms
+[14:10:34] [Server thread/INFO]: Done (2.984s)! For help, type "help"
+[14:10:39] [Server thread/INFO]: Tigre_Severo[/127.199.54.170:43481] logged in with entity id 11 at (668.4283305775416, 65.0, 87.0448348445317)
+[14:10:39] [Server thread/INFO]: Tigre_Severo joined the game
+[14:10:49] [Server thread/INFO]: pepeneque[/127.63.100.36:43629] logged in with entity id 635 at (720.1096755172782, -17.0, 8.160535467723564)
+[14:10:49] [Server thread/INFO]: pepeneque joined the game
+[14:13:43] [Server thread/INFO]: pepeneque lost connection: Disconnected
+[14:13:43] [Server thread/INFO]: pepeneque left the game
+[14:13:47] [Server thread/INFO]: pepeneque[/127.63.100.36:47163] logged in with entity id 2152 at (737.2475478631402, -13.0, 7.879390615617598)
+[14:13:47] [Server thread/INFO]: pepeneque joined the game
+[14:14:42] [Server thread/INFO]: pepeneque lost connection: Disconnected
+[14:14:42] [Server thread/INFO]: pepeneque left the game
+[14:15:04] [Server thread/INFO]: Tigre_Severo was slain by Iron Golem
+[14:15:55] [Server thread/INFO]: pepeneque[/127.63.100.36:55443] logged in with entity id 3992 at (699.1109723966462, -16.0, 6.504945287505048)
+[14:15:55] [Server thread/INFO]: pepeneque joined the game
+[14:16:04] [Server thread/INFO]: Tigre_Severo was slain by Iron Golem
+[14:18:57] [Server thread/INFO]: Tigre_Severo has made the advancement [Hot Stuff]
+[14:20:00] [Server thread/INFO]: pepeneque lost connection: Disconnected
+[14:20:00] [Server thread/INFO]: pepeneque left the game
