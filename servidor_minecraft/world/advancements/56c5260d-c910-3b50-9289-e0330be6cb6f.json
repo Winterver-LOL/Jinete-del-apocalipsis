@@ -10,6 +10,7 @@
       "minecraft:flower_forest": "2024-12-30 23:49:04 +0000",
       "minecraft:beach": "2024-12-30 23:53:34 +0000",
       "minecraft:forest": "2024-12-30 23:47:31 +0000",
+      "minecraft:ocean": "2024-12-31 13:08:46 +0000",
       "minecraft:river": "2024-12-30 23:57:52 +0000",
       "minecraft:plains": "2024-12-30 23:43:26 +0000"
     },
@@ -1101,6 +1102,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:zombie": "2024-12-31 13:05:22 +0000",
       "minecraft:creeper": "2024-12-31 13:04:09 +0000",
       "minecraft:drowned": "2024-12-31 00:22:16 +0000"
     },
@@ -1142,6 +1144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-31 13:08:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-31 13:03:24 +0000"
@@ -1160,6 +1168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-12-31 13:08:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-31 13:02:49 +0000"
@@ -1175,6 +1189,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-31 12:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-31 13:07:56 +0000"
     },
     "done": true
   },
@@ -1211,6 +1231,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-31 13:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-12-31 13:07:56 +0000"
     },
     "done": true
   },

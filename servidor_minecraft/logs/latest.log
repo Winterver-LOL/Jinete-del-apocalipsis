@@ -47,3 +47,18 @@
 [13:09:01] [Server thread/INFO]: pepeneque has made the advancement [Diamonds!]
 [13:10:00] [Server thread/INFO]: pepeneque lost connection: Disconnected
 [13:10:00] [Server thread/INFO]: pepeneque left the game
+[13:10:30] [Server thread/INFO]: ENANIN10 lost connection: Disconnected
+[13:10:30] [Server thread/INFO]: ENANIN10 left the game
+[13:10:35] [Server thread/INFO]: Tigre_Severo lost connection: Disconnected
+[13:10:35] [Server thread/INFO]: Tigre_Severo left the game
+[13:10:49] [Server thread/INFO]: Stopping the server
+[13:10:49] [Server thread/INFO]: Stopping server
+[13:10:49] [Server thread/INFO]: Saving players
+[13:10:49] [Server thread/INFO]: Saving worlds
+[13:10:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:10:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:10:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:10:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:10:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:10:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:10:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
