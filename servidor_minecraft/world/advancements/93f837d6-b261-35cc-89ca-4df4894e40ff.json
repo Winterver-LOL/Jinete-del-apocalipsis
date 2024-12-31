@@ -488,7 +488,8 @@
       "minecraft:skeleton": "2024-12-30 23:51:31 +0000",
       "minecraft:spider": "2024-12-31 14:11:07 +0000",
       "minecraft:zombie": "2024-12-31 12:58:48 +0000",
-      "minecraft:creeper": "2024-12-31 13:01:31 +0000"
+      "minecraft:creeper": "2024-12-31 13:01:31 +0000",
+      "minecraft:zombie_villager": "2024-12-31 15:14:02 +0000"
     },
     "done": false
   },
@@ -1434,9 +1435,21 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-31 15:13:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-31 14:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-31 15:16:35 +0000"
     },
     "done": true
   },
@@ -1449,6 +1462,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2024-12-31 15:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-31 15:11:36 +0000"
     },
     "done": true
   },
@@ -1482,9 +1501,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-31 15:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-31 15:24:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-31 14:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-31 15:11:36 +0000"
     },
     "done": true
   },
@@ -1506,6 +1543,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-31 15:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-31 15:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-31 15:11:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2024-12-31 14:59:53 +0000"
@@ -1515,6 +1570,18 @@
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2024-12-31 14:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-31 15:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-31 15:11:36 +0000"
     },
     "done": true
   },

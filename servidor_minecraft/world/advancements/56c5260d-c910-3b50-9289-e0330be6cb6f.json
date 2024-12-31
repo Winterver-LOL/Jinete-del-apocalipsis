@@ -1104,7 +1104,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-31 15:13:08 +0000",
       "minecraft:enderman": "2024-12-31 14:50:32 +0000",
+      "minecraft:spider": "2024-12-31 15:12:50 +0000",
       "minecraft:zombie": "2024-12-31 13:05:22 +0000",
       "minecraft:creeper": "2024-12-31 13:04:09 +0000",
       "minecraft:drowned": "2024-12-31 00:22:16 +0000",
@@ -1274,6 +1276,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2024-12-31 15:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-31 15:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-31 15:17:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2024-12-31 14:33:35 +0000"
@@ -1283,6 +1303,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-31 14:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2024-12-31 15:17:49 +0000"
     },
     "done": true
   },
@@ -1310,6 +1336,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-31 15:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2024-12-31 15:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-31 15:17:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-31 14:33:35 +0000"
@@ -1319,6 +1363,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-12-31 14:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-31 15:30:50 +0000"
     },
     "done": true
   },
@@ -1349,6 +1399,18 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-31 14:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-31 15:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2024-12-31 15:17:49 +0000"
     },
     "done": true
   },
@@ -1385,6 +1447,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-31 14:33:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2024-12-31 15:17:49 +0000"
     },
     "done": true
   },

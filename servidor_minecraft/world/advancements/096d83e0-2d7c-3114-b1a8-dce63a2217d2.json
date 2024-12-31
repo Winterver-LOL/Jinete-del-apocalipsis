@@ -359,6 +359,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-31 15:12:30 +0000",
+      "minecraft:spider": "2024-12-31 15:13:40 +0000",
       "minecraft:zombie": "2024-12-31 13:07:10 +0000",
       "minecraft:creeper": "2024-12-31 14:23:13 +0000",
       "minecraft:zombie_villager": "2024-12-30 23:51:34 +0000"
@@ -1029,6 +1031,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-31 15:12:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-31 15:02:36 +0000"
@@ -1038,6 +1046,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-31 14:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-31 15:13:41 +0000"
     },
     "done": true
   },
@@ -1059,6 +1073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-31 15:35:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-31 14:54:22 +0000"
@@ -1074,6 +1094,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2024-12-31 14:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-31 15:10:49 +0000"
     },
     "done": true
   },
@@ -1125,6 +1151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-31 15:10:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-12-31 14:47:57 +0000"
@@ -1134,6 +1166,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-31 14:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-31 15:11:11 +0000"
     },
     "done": true
   },
@@ -1161,6 +1199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-31 15:10:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-31 15:02:36 +0000"
@@ -1185,6 +1229,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-31 15:10:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-31 15:12:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-31 14:36:23 +0000"
@@ -1206,6 +1262,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-31 15:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-31 15:10:49 +0000"
     },
     "done": true
   },
@@ -1263,9 +1325,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-31 15:10:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-31 15:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-31 15:35:29 +0000"
     },
     "done": true
   },
