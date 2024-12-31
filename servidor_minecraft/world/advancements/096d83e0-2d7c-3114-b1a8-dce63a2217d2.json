@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:flower_forest": "2024-12-30 23:54:11 +0000",
       "minecraft:beach": "2024-12-30 23:58:44 +0000",
+      "minecraft:ocean": "2024-12-31 14:18:33 +0000",
       "minecraft:river": "2024-12-30 23:57:50 +0000",
       "minecraft:plains": "2024-12-30 23:44:57 +0000"
     },
@@ -359,6 +360,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie": "2024-12-31 13:07:10 +0000",
+      "minecraft:creeper": "2024-12-31 14:23:13 +0000",
       "minecraft:zombie_villager": "2024-12-30 23:51:34 +0000"
     },
     "done": false
@@ -954,9 +956,27 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-31 14:18:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-31 14:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-31 14:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-31 14:23:16 +0000"
     },
     "done": true
   },
