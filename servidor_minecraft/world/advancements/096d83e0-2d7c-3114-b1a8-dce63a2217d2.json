@@ -424,6 +424,7 @@
       "mutton": "2024-12-30 23:55:15 +0000",
       "apple": "2024-12-30 23:52:40 +0000",
       "bread": "2024-12-31 00:00:45 +0000",
+      "cooked_mutton": "2024-12-31 14:46:27 +0000",
       "cooked_beef": "2024-12-31 00:22:10 +0000"
     },
     "done": false
@@ -962,6 +963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-31 14:47:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-31 14:36:23 +0000"
@@ -971,6 +978,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-31 14:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-31 14:44:11 +0000"
     },
     "done": true
   },
@@ -1034,6 +1047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-31 14:47:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-31 14:36:23 +0000"
@@ -1094,9 +1113,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-31 14:47:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-31 14:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-31 14:47:49 +0000"
     },
     "done": true
   },
