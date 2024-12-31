@@ -428,7 +428,8 @@
       "cooked_porkchop": "2024-12-30 23:50:31 +0000",
       "apple": "2024-12-31 00:06:02 +0000",
       "bread": "2024-12-31 00:01:28 +0000",
-      "suspicious_stew": "2024-12-30 23:56:00 +0000"
+      "suspicious_stew": "2024-12-30 23:56:00 +0000",
+      "cooked_mutton": "2024-12-31 00:22:08 +0000"
     },
     "done": false
   },
@@ -468,6 +469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-31 00:22:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-30 23:53:54 +0000"
@@ -501,6 +508,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 00:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-31 00:16:20 +0000"
     },
     "done": true
   },
@@ -540,9 +553,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-31 00:16:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2024-12-31 00:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2024-12-31 00:12:18 +0000"
     },
     "done": true
   },
@@ -555,6 +580,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-30 23:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-31 00:22:17 +0000"
     },
     "done": true
   },
@@ -618,6 +649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-31 00:16:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 00:01:56 +0000"
@@ -651,6 +688,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 00:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-31 00:22:17 +0000"
     },
     "done": true
   },
@@ -762,6 +805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-31 00:09:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-30 23:53:50 +0000"
@@ -840,6 +889,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-31 00:22:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:drowned": "2024-12-31 00:22:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 00:01:56 +0000"
@@ -897,6 +958,18 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-31 00:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2024-12-31 00:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:drowned": "2024-12-31 00:22:16 +0000"
     },
     "done": true
   },
@@ -993,6 +1066,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-30 23:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-31 00:22:17 +0000"
     },
     "done": true
   },
