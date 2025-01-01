@@ -426,6 +426,7 @@
       "mutton": "2024-12-30 23:55:15 +0000",
       "apple": "2024-12-30 23:52:40 +0000",
       "bread": "2024-12-31 00:00:45 +0000",
+      "suspicious_stew": "2025-01-01 15:11:58 +0000",
       "cooked_mutton": "2024-12-31 14:46:27 +0000",
       "cooked_beef": "2024-12-31 00:22:10 +0000",
       "pumpkin_pie": "2025-01-01 14:51:08 +0000",
@@ -1522,6 +1523,18 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-01-01 14:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-01 15:17:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-01-01 15:11:58 +0000"
     },
     "done": true
   },
