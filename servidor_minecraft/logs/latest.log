@@ -21,3 +21,8 @@
 [14:43:06] [Server thread/INFO]: pepeneque[/127.63.100.36:53121] logged in with entity id 1723 at (1015.3194620281829, 70.0, 45.69999998807907)
 [14:43:06] [Server thread/INFO]: pepeneque joined the game
 [14:58:59] [Server thread/INFO]: Tigre_Severo has made the advancement [Isn't It Iron Pick]
+[15:46:45] [Server thread/INFO]: Tigre_Severo lost connection: Timed out
+[15:46:45] [Server thread/INFO]: Tigre_Severo left the game
+[15:46:45] [Server thread/WARN]: handleDisconnection() called twice
+[15:47:32] [Server thread/INFO]: Tigre_Severo[/127.199.54.170:33041] logged in with entity id 46506 at (680.2704978589899, 63.0, 104.66024037457237)
+[15:47:32] [Server thread/INFO]: Tigre_Severo joined the game
