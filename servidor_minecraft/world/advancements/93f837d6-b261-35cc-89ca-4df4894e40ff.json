@@ -470,7 +470,8 @@
       "cookie": "2025-01-01 16:06:15 +0000",
       "cooked_mutton": "2024-12-30 23:51:04 +0000",
       "porkchop": "2024-12-30 23:57:32 +0000",
-      "beetroot": "2024-12-31 15:08:16 +0000"
+      "beetroot": "2024-12-31 15:08:16 +0000",
+      "golden_carrot": "2025-01-01 20:54:32 +0000"
     },
     "done": false
   },
@@ -488,6 +489,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-01-01 21:02:11 +0000",
       "minecraft:skeleton": "2024-12-30 23:51:31 +0000",
       "minecraft:spider": "2024-12-31 14:11:07 +0000",
       "minecraft:zombie": "2024-12-31 12:58:48 +0000",

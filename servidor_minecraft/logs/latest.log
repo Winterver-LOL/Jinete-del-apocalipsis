@@ -21,3 +21,18 @@
 [20:40:05] [Server thread/INFO]: pepeneque joined the game
 [20:40:47] [Server thread/INFO]: Tigre_Severo[/127.199.54.170:54997] logged in with entity id 1688 at (665.2449436911976, 73.11677382973008, 86.24557224519626)
 [20:40:47] [Server thread/INFO]: Tigre_Severo joined the game
+[21:06:13] [Server thread/INFO]: pepeneque lost connection: Disconnected
+[21:06:13] [Server thread/INFO]: pepeneque left the game
+[21:06:38] [Server thread/INFO]: Stopping the server
+[21:06:38] [Server thread/INFO]: Stopping server
+[21:06:38] [Server thread/INFO]: Saving players
+[21:06:38] [Server thread/INFO]: Tigre_Severo lost connection: Disconnected
+[21:06:38] [Server thread/INFO]: Tigre_Severo left the game
+[21:06:38] [Server thread/INFO]: Saving worlds
+[21:06:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:06:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:06:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:06:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:06:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:06:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:06:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
