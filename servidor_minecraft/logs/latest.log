@@ -26,3 +26,25 @@
 [15:46:45] [Server thread/WARN]: handleDisconnection() called twice
 [15:47:32] [Server thread/INFO]: Tigre_Severo[/127.199.54.170:33041] logged in with entity id 46506 at (680.2704978589899, 63.0, 104.66024037457237)
 [15:47:32] [Server thread/INFO]: Tigre_Severo joined the game
+[16:04:35] [Server thread/INFO]: [Not Secure] <pepeneque> me escuchas?
+[16:04:47] [Server thread/INFO]: [Not Secure] <Tigre_Severo> no, es mmi wifi
+[16:05:45] [Server thread/INFO]: [Not Secure] <pepeneque> a vale
+[16:07:41] [Server thread/INFO]: pepeneque lost connection: Disconnected
+[16:07:41] [Server thread/INFO]: pepeneque left the game
+[16:25:32] [Server thread/INFO]: Tigre_Severo lost connection: Disconnected
+[16:25:32] [Server thread/INFO]: Tigre_Severo left the game
+[16:28:40] [Server thread/INFO]: pepeneque[/127.63.100.36:45971] logged in with entity id 73722 at (674.5452767811088, 62.9375, 88.73973136988465)
+[16:28:40] [Server thread/INFO]: pepeneque joined the game
+[16:30:32] [Server thread/INFO]: pepeneque lost connection: Disconnected
+[16:30:32] [Server thread/INFO]: pepeneque left the game
+[16:31:10] [Server thread/INFO]: Stopping the server
+[16:31:10] [Server thread/INFO]: Stopping server
+[16:31:10] [Server thread/INFO]: Saving players
+[16:31:10] [Server thread/INFO]: Saving worlds
+[16:31:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:31:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:31:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:31:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
