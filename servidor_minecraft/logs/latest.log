@@ -25,3 +25,16 @@
 [16:33:20] [Server thread/INFO]: Tigre_Severo has completed the challenge [Return to Sender]
 [16:57:53] [Server thread/INFO]: pepeneque lost connection: Disconnected
 [16:57:53] [Server thread/INFO]: pepeneque left the game
+[17:07:57] [Server thread/INFO]: Tigre_Severo lost connection: Disconnected
+[17:07:57] [Server thread/INFO]: Tigre_Severo left the game
+[17:08:22] [Server thread/INFO]: Stopping the server
+[17:08:22] [Server thread/INFO]: Stopping server
+[17:08:22] [Server thread/INFO]: Saving players
+[17:08:22] [Server thread/INFO]: Saving worlds
+[17:08:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:08:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:08:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:08:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:08:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:08:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:08:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
