@@ -40,3 +40,19 @@
 [15:13:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=852, y=107, z=184} jd{x=852, y=106, z=183}
 [15:13:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=852, y=107, z=184} jd{x=852, y=106, z=183}
 [15:26:47] [Server thread/INFO]: ENANIN10 has made the advancement [Diamonds!]
+[15:37:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=750, y=67, z=195} jd{x=746, y=67, z=191}
+[15:42:34] [Server thread/INFO]: ENANIN10 lost connection: Disconnected
+[15:42:34] [Server thread/INFO]: ENANIN10 left the game
+[15:42:42] [Server thread/INFO]: Tigre_Severo lost connection: Disconnected
+[15:42:42] [Server thread/INFO]: Tigre_Severo left the game
+[15:43:03] [Server thread/INFO]: Stopping the server
+[15:43:03] [Server thread/INFO]: Stopping server
+[15:43:03] [Server thread/INFO]: Saving players
+[15:43:03] [Server thread/INFO]: Saving worlds
+[15:43:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:43:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:43:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:43:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
