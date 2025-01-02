@@ -33,3 +33,9 @@
 [14:49:46] [Server thread/INFO]: [Not Secure] <Tigre_Severo> ZZZZZ
 [14:49:48] [Server thread/INFO]: [Not Secure] <Tigre_Severo> ZZZZZZ
 [14:49:50] [Server thread/INFO]: [Not Secure] <Tigre_Severo> ZZZZ
+[15:08:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=742, y=68, z=172} jd{x=749, y=68, z=170}
+[15:08:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=742, y=68, z=172} jd{x=752, y=68, z=171}
+[15:08:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=742, y=68, z=172} jd{x=752, y=68, z=171}
+[15:08:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=742, y=68, z=172} jd{x=752, y=68, z=171}
+[15:13:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=852, y=107, z=184} jd{x=852, y=106, z=183}
+[15:13:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=852, y=107, z=184} jd{x=852, y=106, z=183}
