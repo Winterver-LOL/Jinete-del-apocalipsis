@@ -1,40 +1,26 @@
-[16:12:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:12:39] [ServerMain/INFO]: Loaded 1290 recipes
-[16:12:39] [ServerMain/INFO]: Loaded 1399 advancements
-[16:12:40] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[16:12:40] [Server thread/INFO]: Loading properties
-[16:12:40] [Server thread/INFO]: Default game type: SURVIVAL
-[16:12:40] [Server thread/INFO]: Generating keypair
-[16:12:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:12:40] [Server thread/INFO]: Using epoll channel type
-[16:12:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:12:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:12:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:12:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:12:40] [Server thread/INFO]: Preparing level "world"
-[16:12:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:12:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:12:43] [Server thread/INFO]: Time elapsed: 490 ms
-[16:12:43] [Server thread/INFO]: Done (3.055s)! For help, type "help"
-[16:21:08] [Server thread/INFO]: Tigre_Severo[/127.199.54.170:50367] logged in with entity id 10 at (787.0450282004755, 68.0, 190.43290651440816)
-[16:21:09] [Server thread/INFO]: Tigre_Severo joined the game
-[16:23:22] [Server thread/INFO]: pepeneque[/127.187.243.125:35131] logged in with entity id 1931 at (675.9868293622334, 62.9375, 86.69999998807907)
-[16:23:22] [Server thread/INFO]: pepeneque joined the game
-[16:30:40] [Server thread/INFO]: Tigre_Severo has made the advancement [We Need to Go Deeper]
-[16:30:41] [Server thread/INFO]: pepeneque has made the advancement [We Need to Go Deeper]
-[16:33:20] [Server thread/INFO]: Tigre_Severo has completed the challenge [Return to Sender]
-[16:57:53] [Server thread/INFO]: pepeneque lost connection: Disconnected
-[16:57:53] [Server thread/INFO]: pepeneque left the game
-[17:07:57] [Server thread/INFO]: Tigre_Severo lost connection: Disconnected
-[17:07:57] [Server thread/INFO]: Tigre_Severo left the game
-[17:08:22] [Server thread/INFO]: Stopping the server
-[17:08:22] [Server thread/INFO]: Stopping server
-[17:08:22] [Server thread/INFO]: Saving players
-[17:08:22] [Server thread/INFO]: Saving worlds
-[17:08:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:08:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:08:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:08:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:08:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:08:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:08:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:40:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:40:50] [ServerMain/INFO]: Loaded 1290 recipes
+[22:40:50] [ServerMain/INFO]: Loaded 1399 advancements
+[22:40:51] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[22:40:51] [Server thread/INFO]: Loading properties
+[22:40:51] [Server thread/INFO]: Default game type: SURVIVAL
+[22:40:51] [Server thread/INFO]: Generating keypair
+[22:40:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:40:51] [Server thread/INFO]: Using epoll channel type
+[22:40:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:40:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:40:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:40:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:40:51] [Server thread/INFO]: Preparing level "world"
+[22:40:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:40:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:40:55] [Server thread/INFO]: Time elapsed: 517 ms
+[22:40:55] [Server thread/INFO]: Done (3.494s)! For help, type "help"
+[22:41:08] [Server thread/INFO]: pepeneque[/127.63.100.36:53545] logged in with entity id 10 at (676.6977710393777, 63.5625, 86.28150024439539)
+[22:41:08] [Server thread/INFO]: pepeneque joined the game
+[22:41:18] [Server thread/INFO]: pepeneque lost connection: Disconnected
+[22:41:18] [Server thread/INFO]: pepeneque left the game
+[22:49:26] [Server thread/INFO]: pepeneque[/127.63.100.36:56195] logged in with entity id 455 at (673.6047545123048, 62.9375, 89.34846794752931)
+[22:49:26] [Server thread/INFO]: pepeneque joined the game
+[22:49:46] [Server thread/INFO]: Tigre_Severo[/127.199.54.170:47133] logged in with entity id 1882 at (58.301097375615406, 15.0, -6.939834822314558)
+[22:49:46] [Server thread/INFO]: Tigre_Severo joined the game
