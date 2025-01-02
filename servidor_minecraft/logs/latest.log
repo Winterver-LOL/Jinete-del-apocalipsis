@@ -63,3 +63,15 @@
 [23:18:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=26, y=19, z=132} jd{x=26, y=19, z=136}
 [23:18:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=26, y=17, z=137} jd{x=26, y=15, z=137}
 [23:18:50] [Server thread/INFO]: pepeneque has made the advancement [Hidden in the Depths]
+[23:27:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-75, y=16, z=132} jd{x=-74, y=15, z=132}
+[23:27:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-75, y=16, z=132} jd{x=-74, y=15, z=132}
+[23:27:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-75, y=16, z=132} jd{x=-74, y=15, z=132}
+[23:27:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-75, y=16, z=132} jd{x=-74, y=15, z=132}
+[23:27:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-75, y=16, z=132} jd{x=-74, y=15, z=132}
+[23:27:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-87, y=14, z=123} jd{x=-88, y=16, z=123}
+[23:27:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-85, y=15, z=122} jd{x=-84, y=15, z=122}
+[23:27:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-85, y=15, z=122} jd{x=-84, y=15, z=122}
+[23:27:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-85, y=15, z=122} jd{x=-84, y=15, z=122}
+[23:27:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-85, y=15, z=122} jd{x=-84, y=15, z=122}
+[23:27:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-85, y=15, z=122} jd{x=-84, y=15, z=122}
+[23:28:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-91, y=16, z=126} jd{x=-91, y=16, z=125}
