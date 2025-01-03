@@ -359,7 +359,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-01-03 00:12:59 +0000",
       "minecraft:skeleton": "2024-12-31 15:12:30 +0000",
+      "minecraft:magma_cube": "2025-01-03 00:19:34 +0000",
       "minecraft:spider": "2024-12-31 15:13:40 +0000",
       "minecraft:zombie": "2024-12-31 13:07:10 +0000",
       "minecraft:creeper": "2024-12-31 14:23:13 +0000",
@@ -2497,9 +2499,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-01-03 00:00:07 +0000",
       "minecraft:nether_wastes": "2025-01-02 16:30:41 +0000",
-      "minecraft:soul_sand_valley": "2025-01-02 16:31:30 +0000"
+      "minecraft:soul_sand_valley": "2025-01-02 16:31:30 +0000",
+      "minecraft:basalt_deltas": "2025-01-03 00:12:03 +0000",
+      "minecraft:warped_forest": "2025-01-03 00:17:51 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
@@ -2675,9 +2679,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-03 00:20:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-01-02 23:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-03 00:13:20 +0000"
     },
     "done": true
   },
@@ -2693,9 +2709,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-03 00:13:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-03 00:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-03 00:13:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-01-02 23:40:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-03 00:13:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-03 00:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-03 00:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-03 00:13:20 +0000"
     },
     "done": true
   },
