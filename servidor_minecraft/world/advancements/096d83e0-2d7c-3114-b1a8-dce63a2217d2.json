@@ -9,8 +9,14 @@
     "criteria": {
       "minecraft:flower_forest": "2024-12-30 23:54:11 +0000",
       "minecraft:beach": "2024-12-30 23:58:44 +0000",
+      "minecraft:forest": "2025-01-03 00:53:21 +0000",
+      "minecraft:mangrove_swamp": "2025-01-03 00:54:59 +0000",
+      "minecraft:sparse_jungle": "2025-01-03 00:55:57 +0000",
       "minecraft:ocean": "2024-12-31 14:18:33 +0000",
+      "minecraft:jungle": "2025-01-03 00:54:16 +0000",
       "minecraft:river": "2024-12-30 23:57:50 +0000",
+      "minecraft:swamp": "2025-01-03 00:46:20 +0000",
+      "minecraft:birch_forest": "2025-01-03 00:54:13 +0000",
       "minecraft:plains": "2024-12-30 23:44:57 +0000"
     },
     "done": false
@@ -362,6 +368,7 @@
       "minecraft:blaze": "2025-01-03 00:12:59 +0000",
       "minecraft:skeleton": "2024-12-31 15:12:30 +0000",
       "minecraft:magma_cube": "2025-01-03 00:19:34 +0000",
+      "minecraft:witch": "2025-01-03 00:52:19 +0000",
       "minecraft:spider": "2024-12-31 15:13:40 +0000",
       "minecraft:zombie": "2024-12-31 13:07:10 +0000",
       "minecraft:creeper": "2024-12-31 14:23:13 +0000",
@@ -2685,9 +2692,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-03 00:56:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-01-03 00:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-03 00:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 00:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-03 00:48:55 +0000"
     },
     "done": true
   },
@@ -2709,15 +2740,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 00:45:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-01-03 00:13:20 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 00:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-01-03 00:55:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-01-02 23:40:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-03 00:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 00:45:33 +0000"
     },
     "done": true
   },
@@ -2739,15 +2800,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 00:45:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-01-03 00:13:20 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 00:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 00:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-03 00:54:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-01-02 23:40:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 00:45:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-01-03 00:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-03 00:54:39 +0000"
     },
     "done": true
   },
@@ -2763,6 +2866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-03 00:54:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-01-03 00:20:46 +0000"
@@ -2772,6 +2881,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-01-03 00:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-03 00:45:33 +0000"
     },
     "done": true
   },
